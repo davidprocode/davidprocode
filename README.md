@@ -1,4 +1,2 @@
-# 👋 Hi, I’m @davidprocode
-### 🌱 I’m currently learning typescript and golang
-### 👀 I’m interested in backend development and data science
+# 👋 Hi, I’m @davidprocode, PHP, Javascript and Typescript Developer
 ### Linkedin: https://www.linkedin.com/in/davidprocode/
