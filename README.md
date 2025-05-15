@@ -1,3 +1,3 @@
 # 👋 Hi, I’m @davidprocode.
-### PHP, Javascript and Typescript Developer
+### Typescript Developer
 ### Linkedin: https://www.linkedin.com/in/davidprocode/
